@@ -1,3 +1,4 @@
+import './App.css'
 import React from 'react'
 
 import {Features, Possibility, WhatGPT3, Header, Blog, Footer} from './containers'
